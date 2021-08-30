@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yukis/cheminfo/boston/mlruns/0/39b18f1481314efba5317aad714561ff/artifacts
+end_time: 1630329301753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 39b18f1481314efba5317aad714561ff
+run_uuid: 39b18f1481314efba5317aad714561ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630329300510
+status: 3
+tags: []
+user_id: yukis
